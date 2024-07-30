@@ -1,9 +1,12 @@
-# Coin List
-he Coin Listing app is a demo application that displays information about cryptocurrencies. The data is stored on a web server as a REST web service.
+# Coin Listing App
 
-This application demonstrates the use of [Retrofit](https://square.github.io/retrofit/) to send requests to the web service and [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) to parse the returned JSON data into Kotlin data objects.
+The Coin Listing app is a demo application that displays information about cryptocurrencies. The data is stored on a web server as a REST web service.
 
-In my project, I additionally use Manual Dependency Injection and MVVM architecture.
+This application demonstrates the use of the following technologies:
+- **Retrofit**: Used to send requests to the web service.
+- **kotlinx.serialization**: Used to parse the returned JSON data into Kotlin data objects.
+- **Manual Dependency Injection**: Used to manage dependencies.
+- **MVVM Architecture Pattern**: Used to structure the application architecture..
 
 
 
