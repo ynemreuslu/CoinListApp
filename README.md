@@ -1,4 +1,4 @@
-# 🪙 Coin Listing App 📈
+#  Coin Listing App 📈
 
 The Coin Listing app is a demo application that displays information about cryptocurrencies. The data is stored on a web server as a REST web service.
 
